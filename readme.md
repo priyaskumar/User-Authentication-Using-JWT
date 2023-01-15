@@ -88,5 +88,11 @@ User-Authentication using JWT
 
 [Login Page using Flask and JWT](https://github.com/priyaskumar/User-Authentication-Using-JWT/blob/master/app.py)
 
+## References
+
+[User Authentication using JWT](https://www.youtube.com/watch?v=_3NKBHYcpyg)
+
+[Authenticating a Flask API using JWT](https://www.youtube.com/watch?v=J5bIPtEbS0Q)
+
 
 
