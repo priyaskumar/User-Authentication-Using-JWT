@@ -20,7 +20,7 @@ User-Authentication using JWT
 
 - Has security issues. Easy for attackers to point to your account
 
-    <img src="img/Cookies.png" height=300 width=250>
+    <img src="img/Cookies.png" height=600 width=500>
 
 ## User Authentication using JSON Web Tokens (JWT)
 
@@ -35,7 +35,7 @@ User-Authentication using JWT
 - JWT handled on the client side
 
 
-    <img src="img/JWT.png" height=300 width=260>
+    <img src="img/JWT.png" height=600 width=520>
 
 ## jwt.io
 
@@ -86,7 +86,7 @@ User-Authentication using JWT
 
 ## Example of authentication of user via login page 
 
-[Login Page using Flask and JWT]()
+[Login Page using Flask and JWT](https://github.com/priyaskumar/User-Authentication-Using-JWT/blob/master/app.py)
 
 
 
